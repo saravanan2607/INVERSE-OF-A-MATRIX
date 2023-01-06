@@ -23,7 +23,7 @@ print(result)
 
 ## Output:
 
-![Output](img1.jpg)
+![Output](image3.jpg)
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
