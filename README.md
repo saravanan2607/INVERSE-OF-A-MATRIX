@@ -26,8 +26,9 @@ print(result)
 
 ## Output:
 
-![Output](/image3.jpg)
+![Exp - 03 Inverse of a matrix](https://github.com/user-attachments/assets/4ad7b177-a5b4-496c-a088-3af963a46583)
+
 
 ## Result:
-Thus the inverse of given matrix is successfully solved using python program
+Thus the inverse of given matrix is successfully solved using python program.
 
